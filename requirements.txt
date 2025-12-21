@@ -1,0 +1,20 @@
+# ARGOS Content System - Dependencies
+
+# Core Framework
+streamlit>=1.28.0
+
+# AI & Agents
+autogen-agentchat>=0.4.0
+autogen-ext>=0.4.0
+openai>=1.0.0
+
+# Web Search
+tavily-python>=0.3.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Data Processing
+pandas>=2.0.0
+openpyxl>=3.1.0
