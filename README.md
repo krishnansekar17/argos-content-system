@@ -94,18 +94,16 @@ TAVILY_API_KEY=your_tavily_api_key
 ## 📸 Screenshots
 
 ### Main Screen
-(https://github.com/krishnansekar17/argos-content-system/blob/abd679096fee869d58baccd85fde92bdabc56cf9/screenshots/AutoGen%20-%20Content%20System%20-%20Front%20Screen.png)
+![Main Screen](https://github.com/krishnansekar17/argos-content-system/blob/abd679096fee869d58baccd85fde92bdabc56cf9/screenshots/AutoGen%20-%20Content%20System%20-%20Front%20Screen.png)
 
 ### Topic Discovery
-![Discovery Screen](https://github.com/krishnansekar17/argos-content-system/blob/abd679096fee869d58baccd85fde92bdabc56cf9/screenshots/AutoGen%20-%20Content%20System%20-%20Find%20Topics.png)
+![Topic Screen](https://github.com/krishnansekar17/argos-content-system/blob/abd679096fee869d58baccd85fde92bdabc56cf9/screenshots/AutoGen%20-%20Content%20System%20-%20Find%20Topics.png)
 
 ### Find Trending Topics
-(https://github.com/krishnansekar17/argos-content-system/blob/abd679096fee869d58baccd85fde92bdabc56cf9/screenshots/AutoGen%20-%20Content%20System%20-%20Trending%20Topics%20List.png)
+![Trending Screen](https://github.com/krishnansekar17/argos-content-system/blob/abd679096fee869d58baccd85fde92bdabc56cf9/screenshots/AutoGen%20-%20Content%20System%20-%20Trending%20Topics%20List.png)
 
 ### Article Generationn & Quality Checks
-![Generation Screen]
-[Verification Screen]
-(https://github.com/krishnansekar17/argos-content-system/blob/abd679096fee869d58baccd85fde92bdabc56cf9/screenshots/AutoGen%20-%20Content%20System%20-%20Article%20-%20Meta%20Details%20-%20Checklists.png)
+![Generation Screen](https://github.com/krishnansekar17/argos-content-system/blob/abd679096fee869d58baccd85fde92bdabc56cf9/screenshots/AutoGen%20-%20Content%20System%20-%20Article%20-%20Meta%20Details%20-%20Checklists.png)
 
 ## 🔄 Workflow
 
